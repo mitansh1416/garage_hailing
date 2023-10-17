@@ -1,0 +1,9 @@
+const String signuproute = '/signup';
+const String myvehicleroute = '/myvehicle';
+const String loginroute = '/login';
+const String homeroute = '/home';
+const String historyroute = '/history';
+const String workshoproute = '/workshops';
+const String addvehicleroute = '/addvehicle';
+const String errorroute = '/Page-Not-Found';
+const String bookinghistoryroute = '/bookinghistory';
